@@ -1,0 +1,20 @@
+Nome,Nota,Latitude,Longitude
+Pousada Dona Silvia,4.7,-1.266737,-48.560117
+Pousada Araras,4.6,-1.267696,-48.562081
+Pousada Farol das Estrelas,3.7,-1.267325,-48.562583
+Pousada Farol,4.0,-1.267051,-48.562529
+Vila Cotijuba,4.1,-1.265792,-48.563649
+Pousada Bahia na Ilha de Cotijuba,4.7,-1.265251,-48.563808
+Pousada Matapi,4.7,-1.265592,-48.561822
+Hotel Pousada Dona Jô,4.5,-1.263725,-48.558730
+Pousada Iracema,5.0,-1.255438,-48.563792
+Pousada Aldeia Cotijuba,5.0,-1.245830,-48.563944
+Pousada do Professor,4.0,-1.244922,-48.563523
+Skamboo Hostel & Conveniência,4.0,-1.241328,-48.562160
+Latino Paraense Hostel & Pousada,4.8,-1.225154,-48.557949
+Nosso Paraiso Pousada,4.6,-1.221537,-48.554141
+Mauro's Bar E Pousada,4.4,-1.221278,-48.553292
+Pousada QuartoCrescente Cotijuba,4.6,-1.221797,-48.552333
+Pousada Da Berna,4.5,-1.222136,-48.549320
+Pousada Ipê,4.9,-1.220893,-48.548967
+Pousada Tapejara Sol & Lua,4.3,-1.220678,-48.547647
