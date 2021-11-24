@@ -1,0 +1,11 @@
+Descrição,Latitude,Longitude,tag
+Terminal Hidroviário,-1.270743,-48.557355,Terminal
+Unidade Municipal de Saúde,-1.263740, -48.556027,Saúde
+Praia do Farol,-1.267419,-48.563083,Praia
+Praia do Amor,-1.261515,-48.565511,Praia
+Praia da Saudade,-1.257076,-48.565450,Praia
+Praia do Professor,-1.244508,-48.563756,Praia
+Praia Funda,-1.237938,-48.561026,Praia
+Praia da Flexeira,-1.232442,-48.558356,Praia
+Praia do Vai-quem-quer,-1.220771,-48.550798,Praia
+
